@@ -38,5 +38,5 @@ jobs:
           path: app/build/outputs/apk/
           destination: apks
       - deploy:
-        name: Deploy APK.
-        command: ./gradlew crashlyticsUploadDistributionRelease
+          name: Deploy APK.
+          command: ./gradlew crashlyticsUploadDistributionRelease
