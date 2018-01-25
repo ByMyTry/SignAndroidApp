@@ -1,4 +1,4 @@
-package com.bymytry.a1_proj;
+package com.taleckij_anton.taleckij_first_app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

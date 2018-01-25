@@ -26,7 +26,7 @@ android {
     }
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.bymytry.a1_proj"
+        applicationId "com.taleckij_anton.taleckij_first_app"
         minSdkVersion 22
         targetSdkVersion 26
         versionCode 1

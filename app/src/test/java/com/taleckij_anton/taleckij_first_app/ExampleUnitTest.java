@@ -1,4 +1,4 @@
-package com.bymytry.a1_proj;
+package com.taleckij_anton.taleckij_first_app;
 
 import org.junit.Test;
 
